@@ -3,3 +3,4 @@ adding lines locally
 ok
 thanks
 >>>>>>> stash
+add new line
