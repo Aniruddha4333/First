@@ -1,1 +1,7 @@
 new xyz
+new xyz
+adding lines locally
+ok
+thanks
+>>>>>>> stash
+add new line
