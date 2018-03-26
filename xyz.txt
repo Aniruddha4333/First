@@ -1,2 +1,5 @@
 new xyz
-new line
+adding lines locally
+ok
+thanks
+>>>>>>> stash
