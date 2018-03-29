@@ -1,4 +1,11 @@
 gdgfds
+
 public void remote(){
 remote
 }
+
+
+public void local(){
+local
+}
+
